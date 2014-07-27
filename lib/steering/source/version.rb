@@ -1,5 +1,5 @@
 module Steering
   module Source
-    VERSION = "1.0.rc.1"
+    VERSION = "1.3.0"
   end
 end
